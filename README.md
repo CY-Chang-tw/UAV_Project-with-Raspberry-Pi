@@ -1,2 +1,2 @@
 # UAV_Project with Raspberry Pi
-UAV project uses Raspberry Pi as a platform and controlled the UAV by xbox controller
+UAV project with Raspberry Pi and controlled the UAV with an Xbox controller.
